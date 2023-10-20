@@ -6,6 +6,8 @@ A simple SwiftUI weather app for displaying the current temperature and a 5-day 
 - Display current temperature.
 - Show a 5-day weather forecast (dummy data for Tuesday to Saturday).
 - Reusable components.
+- Used @State and @Binding also.
+  
 ## Screenshots
 ![Weatherapp](https://github.com/shobhakartiwari/SwiftUI-Weather/assets/13196077/af8e273d-40bb-485a-8e23-3fe3a26d8deb)
 
